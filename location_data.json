@@ -1,0 +1,45 @@
+{
+    "phillips": {
+		"name": "Phillips County, Arkansas", 
+        "county_fips": "107",
+        "state_fips": "05",
+        "coord_format_1": {
+            "type": "rectangle",
+            "coordinates": [-91.158, 34.404, -90.525, 33.681]
+        },
+        "coord_format_2": {
+            "top_left": [34.404, -91.158],
+            "bottom_right": [33.681, -90.525]
+        }
+    },
+    "fresno": {
+		"name": "Fresno County, California",
+        "county_fips": "019",
+        "state_fips": "06",
+        "coord_format_1": [-123.0, 35.0, -119.0, 40.7],
+        "coord_format_2": {
+            "top_left": [37.0, -120.5],
+            "bottom_right": [36.0, -119.5]
+        }
+    },
+    "willacy": {
+		"name": "Willacy County, Texas",
+        "county_fips": "489",
+        "state_fips": "48",
+        "coord_format_1": [-97.799, 26.614, -97.456, 26.372],
+        "coord_format_2": {
+            "top_left": [26.614, -97.799],
+            "bottom_right": [26.372, -97.456]
+        }
+    },
+    "yuma": {
+		"name": "Yuma County, Arizona",
+        "county_fips": "027",
+        "state_fips": "04",
+        "coord_format_1": [-114.785, 33.067, -113.631, 32.512],
+        "coord_format_2": {
+            "top_left": [33.067, -114.785],
+            "bottom_right": [32.512, -113.631]
+        }
+    }
+}
